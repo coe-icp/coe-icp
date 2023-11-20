@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @coe-icp
-- 👀 I am interested in developing a community-oriented economy stream
-- 💞️ I am looking for cooperation in the development of the COE project in the ICP blockchain chain
-- 📫 You can connect with me on Twitter
+---
+description: Community-oriented economy
+---
 
-<!---
-coe-icp/coe-icp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# what is coe?
+
+### what is coe?
+
+**The first chain of an economic flow that was formed without the intervention of governments and banks and is completely owned by the society. COE follows decentralized and popular structures!**
+
+### What is the role of coe?
+
+Cultivating society, attracting capital, creating the first wave of financial and economic flow to create a hybrid chain, from traditional businesses with the over-the-counter and decentralized world.
