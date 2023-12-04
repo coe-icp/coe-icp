@@ -28,5 +28,5 @@ All the income from this collection will be spent on the development and constru
 
 #### coe collection
 
-The coe collection consists of 5,000 NFTs. These special NFTs constitute the main shares of the project, the high voting rights for these NFTs in the DAO sector and the distribution of 10% of liquidity among these NFTs are the main features of this collection.\
+The coe collection consists of 1,000 NFTs. These special NFTs constitute the main shares of the project, the high voting rights for these NFTs in the DAO sector and the distribution of 10% of liquidity among these NFTs are the main features of this collection.\
 These NFTs are sold in the private sector . 90% of the net income of this collection will be added to the coe token support and the remaining 10% is the income of the development team.
