@@ -16,17 +16,18 @@ description: A roadmap for a coe project or brand
 * [x] Start of consecutive airdrops
 * [x] Start recording educational content
 * [ ] Twitter audience growth up to 5000 users
-* [ ] Implementation of the first voting in the DAO aimed at pricing sp-coe NFTs
-* [ ] Making a set of sp-coe NFT
+* [x] Implementation of the first voting in the DAO aimed at pricing sp-coe NFTs
+* [x] Making a set of sp-coe NFT
 * [x] Creating the first liquidity pool
 * [x] Development of the first traditional business with private investments
 
 ### The second phase
 
+* [ ] Making the second collection of sp-coe collections
+* [ ] Completion of ap-coe NFTs airdrop
 * [ ] The end of fundraising from the sp-coe collection
 * [ ] Dubbing of training produced in English by a professional team
 * [ ] Upgrade the project site
-* [ ] Completion of ap-coe airdrops
 * [ ] Running a vote to price a collection of coe NFTs
 * [ ] Completing the appearance design of coe NFTs
 * [ ] Coe collection launch pad on entrepot platform
