@@ -10,9 +10,9 @@ Token distribution for NFT holders will be done after fundraising and adding COE
 
 ### Check out the ap-coe collection data
 
-The ap-coe collection is made and tradable on the YUMI platform.
+The ap-coe collection is made and tradable on the YUKU platform.
 
-* ap-coe NFTs trading:[https://tppkg-ziaaa-aaaal-qatrq-cai.raw.ic0.app/market/collection-nft-list?id=qekxn-6yaaa-aaaap-aa5bq-cai](https://tppkg-ziaaa-aaaal-qatrq-cai.raw.ic0.app/market/collection-nft-list?id=qekxn-6yaaa-aaaap-aa5bq-cai)
+* ap-coe NFTs trading: [https://yuku.app/market/qekxn-6yaaa-aaaap-aa5bq-cai](https://yuku.app/market/qekxn-6yaaa-aaaap-aa5bq-cai)
 * NFT canister: **qekxn-6yaaa-aaaap-aa5bq-cai**
 * Check the general situation: [https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/collection/qekxn-6yaaa-aaaap-aa5bq-cai/summary](https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/collection/qekxn-6yaaa-aaaap-aa5bq-cai/summary)
 * Checking the status of transactions: [https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/collection/qekxn-6yaaa-aaaap-aa5bq-cai/transactions](https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/collection/qekxn-6yaaa-aaaap-aa5bq-cai/transactions)
