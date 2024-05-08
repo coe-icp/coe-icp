@@ -33,3 +33,7 @@ Along the way, the more traditional businesses develop and the higher the curren
 Each business that is selected and established after voting is committed to transparently inject a predetermined percentage of its revenue into the token economy. It happens like this, the traditional business has to buy the COE token with the set amounts and put the monitored token volume into the monthly pools.
 
 The volume of the pools each month can vary depending on the income of the traditional business, and it is not possible to predict how much liquidity will be distributed in the pool in the next month.
+
+{% content-ref url="road-map.md" %}
+[road-map.md](road-map.md)
+{% endcontent-ref %}

@@ -26,3 +26,7 @@ The 100 largest COE token holders will vote from the largest to the smallest pow
 For example: the wallet that has the last position in the list, i.e. it has the lowest amount among the first 100 holders, has a voting power of one! And the wallet that has the highest position among 100 holders has the power of 100 votes.
 
 * DAO section link: [https://app.icpswap.com/voting/luns5-4iaaa-aaaan-qep5q-cai](https://app.icpswap.com/voting/luns5-4iaaa-aaaan-qep5q-cai)
+
+{% content-ref url="nft-capabilities.md" %}
+[nft-capabilities.md](nft-capabilities.md)
+{% endcontent-ref %}

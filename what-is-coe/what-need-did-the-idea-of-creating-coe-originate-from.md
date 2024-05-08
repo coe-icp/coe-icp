@@ -39,3 +39,7 @@ Any traditional business that is added to the chain and tokenized will have a po
 <mark style="color:green;">**COE will create a revolution in economic structures! All societies will be attracted to society-oriented economy! An economy that guarantees definite profit for the society, an economy that will undoubtedly give users annual value growth! We are here.**</mark>
 
 **Let's read more...**
+
+{% content-ref url="how-does-coe-work/" %}
+[how-does-coe-work](how-does-coe-work/)
+{% endcontent-ref %}

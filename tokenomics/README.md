@@ -44,3 +44,7 @@ In most cryptocurrency projects, developers keep LP with them when they do the i
 And of course, in this case, the development team can release the liquidity whenever they want and withdraw all the capital from the project!
 
 <mark style="color:red;">**But the coe project is committed, after the initial pricing, to burn the LP of the original token that is made in the ICPswap exchange so that it is no longer in the possession of any person or team, in this case the development team cannot abuse.**</mark>
+
+{% content-ref url="token-details.md" %}
+[token-details.md](token-details.md)
+{% endcontent-ref %}

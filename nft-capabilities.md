@@ -15,3 +15,7 @@ On the other hand, when our training section is activated, they can access the t
 
 After the distribution of tokens and the start of financial flow and transactions, coe has started its first traditional business, the desired traditional business shares have been sold separately, and coe NFT holders are the only ones who can buy shares at a discount.\
 and be on the white list. Also, any new business that coe develops, it is coe NFT holders who will be on the white list to buy shares.
+
+{% content-ref url="coe-token-value.md" %}
+[coe-token-value.md](coe-token-value.md)
+{% endcontent-ref %}

@@ -27,3 +27,7 @@ We have many blockchains that differ from each other in terms of capabilities an
 This chain will be extremely attractive to programmers and creative people, easily start your site and online store on the ICP blockchain! This is a great feature and we can have high hopes for the future of the governance token of this ICP chain!
 
 The desired business starts operating in the traditional market and enters a predetermined part of the income into its financial chain. In this way, the desired token is purchased and returned to the liquidity pool to return to the economic flow in a fair way and reach the community.
+
+{% content-ref url="../../initial-shares-of-the-coe-project-sponsors/" %}
+[initial-shares-of-the-coe-project-sponsors](../../initial-shares-of-the-coe-project-sponsors/)
+{% endcontent-ref %}

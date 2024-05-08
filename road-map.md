@@ -47,3 +47,7 @@ description: A roadmap for a coe project or brand
 * [ ] The launch of the first traditional business
 
 <mark style="color:red;">**We will complete the stages of the white paper together**</mark>
+
+{% content-ref url="business-link-frameworks/an-overview.md" %}
+[an-overview.md](business-link-frameworks/an-overview.md)
+{% endcontent-ref %}

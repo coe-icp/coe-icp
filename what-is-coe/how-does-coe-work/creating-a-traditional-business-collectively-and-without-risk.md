@@ -7,3 +7,7 @@ But in the second stage of the road map, COE can plan a restaurant project for t
 **In this way, it can be said that the community of COE users have all become restaurant owners with the least risk, and they benefit fairly from the restaurant's income.**
 
 > Do not forget that the restaurant is only one example
+
+{% content-ref url="creating-a-safe-environment-for-investors-by-coe.md" %}
+[creating-a-safe-environment-for-investors-by-coe.md](creating-a-safe-environment-for-investors-by-coe.md)
+{% endcontent-ref %}

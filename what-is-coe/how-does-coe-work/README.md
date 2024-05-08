@@ -34,3 +34,7 @@ This community selection is done among several proposed businesses with specific
 
 The desired business starts operating in the traditional market and enters a predetermined part of the income into its financial chain.\
 In this way, the COE token is purchased and returned to the liquidity pool to return to the economic flow fairly and reach the community.
+
+{% content-ref url="creating-a-traditional-business-collectively-and-without-risk.md" %}
+[creating-a-traditional-business-collectively-and-without-risk.md](creating-a-traditional-business-collectively-and-without-risk.md)
+{% endcontent-ref %}

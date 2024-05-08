@@ -13,6 +13,16 @@ sp-coe is not a collection of NFTs, but a parent category that contains three di
 
 **Each NFT collection of this category becomes a 100% independent community-oriented project to independently form its own community and also contribute to the interests of the COE.**
 
+
+
+<figure><img src="../.gitbook/assets/GP.png" alt=""><figcaption><p><strong>sp-coe</strong></p></figcaption></figure>
+
+#### Completion of three sp-coe steps
+
+Completing the three stages of sp-coe in the roadmap is done in the form of three independent projects with different supports. The set of NFTs sold in this section is 1000 pieces. This 1000 NFT will be sold in three phases. The sp-coe section started with the ALP project, a science fiction story that targets human beliefs and announces the birth of artificial intelligence.
+
+**This action can strengthen the roots of COE token liquidity before the full distribution of COE tokens.**
+
 ### ALP project
 
 ALP is the first project that is placed in the sp-coe category. ALP is the beginning of a science fiction story. ALP consists of a total of 290 NFTs, and the price of these NFTs will be determined at the first COE project DAO meeting.
@@ -22,3 +32,7 @@ We suggest that after checking the COE completely, you should visit the ALP proj
 * ALP : [https://alp-icp.gitbook.io/a-liberal-president/science-fiction-story/a-liberal-president-alp](https://alp-icp.gitbook.io/a-liberal-president/science-fiction-story/a-liberal-president-alp)
 
 <mark style="color:red;">**Note: New data will be added to the white paper as the roadmap progresses.**</mark>
+
+{% content-ref url="../tokenomics/" %}
+[tokenomics](../tokenomics/)
+{% endcontent-ref %}
