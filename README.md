@@ -14,6 +14,6 @@ Cultivating society, attracting capital, creating the first wave of financial an
 
 **The goal of the COE project is to research and create a definitive solution for integrating traditional businesses with the COE token structure.**
 
-{% content-ref url="what-is-coe-v.3/what-need-did-the-idea-of-creating-coe-originate-from.md" %}
-[what-need-did-the-idea-of-creating-coe-originate-from.md](what-is-coe-v.3/what-need-did-the-idea-of-creating-coe-originate-from.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
