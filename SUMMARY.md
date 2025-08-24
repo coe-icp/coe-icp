@@ -9,8 +9,6 @@
 * [tokenomics](tokenomics/README.md)
   * [Token details](tokenomics/token-details.md)
 * [DAO](dao.md)
-* [NFT capabilities](nft-capabilities.md)
-* [coe token value](coe-token-value.md)
 * [Road map](road-map.md)
 
 ## Business link frameworks
