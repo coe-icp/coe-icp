@@ -15,7 +15,6 @@ description: A roadmap for a coe project or brand
 * [x] Building a collection of ap-coe NFTs on YUMI
 * [x] Start of consecutive airdrops
 * [x] Start recording educational content
-* [ ] Twitter audience growth up to 5000 users
 * [x] Implementation of the first voting in the DAO aimed at pricing sp-coe NFTs
 * [x] Making a set of sp-coe NFT
 * [x] Creating the first liquidity pool
@@ -29,7 +28,14 @@ description: A roadmap for a coe project or brand
 * [x] Completing the construction of the coe token with the ICRC-1 standard
 * [x] Distribution of coe token among the community
 * [x] Providing industrial business development plans
-*
+* [x] Testing the COE prototype in the real market
+* [x] COE Marketing Plan Optimization
+* [ ] Add liquidity to DEXs
+* [ ] List on coingecko
+* [ ] coinmarketcap
+* [ ] Integrating the first traditional business
+
+<mark style="color:orange;">**The roadmap will be updated as development progresses.**</mark>
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
