@@ -14,7 +14,14 @@ By providing a plan that can bring about rapid sales growth for traditional busi
 **We put this into practice in the first three years of developing the COE idea and gained valuable data that helped optimize the COE plan.**\
 **If you are interested in learning more about this marketing plan, you can read more or connect with the COE team on social media.**
 
-* We tested the COE prototype in the real market. You can read: ّ(FOOD COE)
+* We tested the COE prototype in the real market. You can read: ّ([FOOD COE](https://foods-organization-2.gitbook.io/food-coe/))
+* FOOD COE Implementation Data Report : ([Study](https://forum.dfinity.org/t/beyond-the-numbers-a-data-driven-analysis-of-the-food-coe-project-in-the-icp-ecosystem/55768?u=coe))
+
+### How does the price growth of the COE token happen?
+
+Injecting financial flow from the traditional market into the COE token can achieve price growth without demand from the community. Integrating any new business with the COE marketing plan and the COE token can accelerate the growth of the token price.
+
+We support traditional businesses to create customer clubs with the help of NFTs, tokenize customer club members, and reward their customer club members with a portion of their financial input in the form of COE tokens.
 
 
 
