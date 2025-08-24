@@ -23,31 +23,14 @@ description: A roadmap for a coe project or brand
 
 ### The second phase
 
-* [ ] Making the second collection of sp-coe collections
-* [ ] Completion of ap-coe NFTs airdrop
-* [ ] The end of fundraising from the sp-coe collection
-* [ ] Dubbing of training produced in English by a professional team
-* [ ] Upgrade the project site
-* [ ] Running a vote to price a collection of coe NFTs
-* [ ] Completing the appearance design of coe NFTs
-* [ ] Coe collection launch pad on entrepot platform
-* [ ] Completing the construction of the coe token with the ICRC-1 standard
-* [ ] Completion of sale of coe NFTs
-* [ ] Distribution of coe token among the community
+* [x] Completion of ap-coe NFTs airdrop
+* [x] The end of fundraising from the sp-coe collection
+* [x] Upgrade the project site
+* [x] Completing the construction of the coe token with the ICRC-1 standard
+* [x] Distribution of coe token among the community
+* [x] Providing industrial business development plans
+*
 
-### third phase
-
-* [ ] Providing industrial business development plans
-* [ ] Coe token farm launch
-* [ ] Voting and choosing traditional business
-* [ ] Designing NFTs related to traditional businesses
-* [ ] Voting for pricing and determining the number of shares
-* [ ] Selling traditional business shares in the Launchpad section
-* [ ] Completing the sale of traditional business shares
-* [ ] The launch of the first traditional business
-
-<mark style="color:red;">**We will complete the stages of the white paper together**</mark>
-
-{% content-ref url="business-link-frameworks/an-overview.md" %}
-[an-overview.md](business-link-frameworks/an-overview.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

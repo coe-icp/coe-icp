@@ -10,7 +10,3 @@
   * [Token details](tokenomics/token-details.md)
 * [DAO](dao.md)
 * [Road map](road-map.md)
-
-## Business link frameworks
-
-* [An overview](business-link-frameworks/an-overview.md)
