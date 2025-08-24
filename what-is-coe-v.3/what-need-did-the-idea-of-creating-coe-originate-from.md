@@ -40,6 +40,6 @@ Any traditional business that is added to the chain and tokenized will have a po
 
 **Let's read more...**
 
-{% content-ref url="how-does-coe-work/" %}
-[how-does-coe-work](how-does-coe-work/)
+{% content-ref url="how-does-coe-work.md" %}
+[how-does-coe-work.md](how-does-coe-work.md)
 {% endcontent-ref %}
