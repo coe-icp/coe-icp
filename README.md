@@ -2,7 +2,7 @@
 description: Community-oriented economy
 ---
 
-# what is coe? (v.3)
+# what is coe? (v.3.1)
 
 ### what is coe?
 
@@ -12,8 +12,4 @@ description: Community-oriented economy
 
 Cultivating society, attracting capital, creating the first wave of financial and economic flow to create a hybrid chain, from traditional businesses with the over-the-counter and decentralized world.
 
-**The goal of the COE project is to research and create a definitive solution for integrating traditional businesses with the COE token structure.**
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+**The goal of the COE project is to research and create a definitive solution for integrating traditional businesses with the COE token structure!**
