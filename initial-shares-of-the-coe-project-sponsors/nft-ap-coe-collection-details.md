@@ -4,10 +4,6 @@ The ap-coe collection is designed to promote and grow the COE project community.
 
 All these ten thousand NFT will be distributed in promotional or educational events. Each NFT from this collection is worth 42 COE tokens.
 
-#### Full token distribution for NFTs
-
-Token distribution for NFT holders will be done after fundraising and adding COE/ICP trading pair.
-
 ### Check out the ap-coe collection data
 
 The ap-coe collection is made and tradable on the YUKU platform.
