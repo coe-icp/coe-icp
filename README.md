@@ -12,4 +12,4 @@ description: Community-oriented economy
 
 Cultivating society, attracting capital, creating the first wave of financial and economic flow to create a hybrid chain, from traditional businesses with the over-the-counter and decentralized world.
 
-**The goal of the COE project is to research and create a definitive solution for integrating traditional businesses with the COE token structure!**
+**The goal of the COE project is to research and create a definitive solution for integrating traditional businesses with the COE token structure.**
