@@ -25,7 +25,22 @@ Very high transaction speed and almost zero fees are two important features of t
 * 30% liquidity
 * 50% of the farm
 
+### Four major trading pairs
 
+Four Major Trading Pairs
+
+30% of the total liquidity of COE tokens, equivalent to 6.3 million tokens, will be held in four major trading pairs.
+
+* 40% of this share belongs to the ICP/COE trading pair.
+* 30% of this share belongs to the ckBTC/COE trading pair.
+* 20% of this share belongs to the ckETH/COE trading pair.
+*  10% of this share belongs to the ckUSDC/COE trading pair.
+
+In this situation, if you hold $100 of COE cryptocurrency, it is like investing in a portfolio of 4 cryptocurrencies. ($40 on ICP, $30 on Bitcoin, $20 on Ethereum, and $10 on the dollar stablecoin.)
+
+COE Token Price Chart : [https://app.icpswap.com/info-swap/token/details/pmlt4-pqaaa-aaaak-aewmq-cai](https://app.icpswap.com/info-swap/token/details/pmlt4-pqaaa-aaaak-aewmq-cai)
+
+
 
 {% content-ref url="token-details.md" %}
 [token-details.md](token-details.md)
