@@ -30,7 +30,7 @@ description: A roadmap for a coe project or brand
 * [x] Providing industrial business development plans
 * [x] Testing the COE prototype in the real market
 * [x] COE Marketing Plan Optimization
-* [ ] Add liquidity to DEXs
+* [x] Add liquidity to DEXs
 * [ ] List on coingecko
 * [ ] coinmarketcap
 * [ ] Integrating the first traditional business
