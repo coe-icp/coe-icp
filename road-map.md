@@ -34,6 +34,7 @@ description: A roadmap for a coe project or brand
 * [ ] List on coingecko
 * [ ] coinmarketcap
 * [ ] Integrating the first traditional business
+* [ ] Complete decentralization of trading pools
 
 <mark style="color:orange;">**The roadmap will be updated as development progresses.**</mark>
 
