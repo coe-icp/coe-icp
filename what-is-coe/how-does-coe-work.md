@@ -25,6 +25,6 @@ We support traditional businesses to create customer clubs with the help of NFTs
 
 
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/yChSOpBnBUIiKWMCQwox" %}
+[Broken link](/broken/pages/yChSOpBnBUIiKWMCQwox)
 {% endcontent-ref %}

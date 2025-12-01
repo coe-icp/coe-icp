@@ -38,6 +38,6 @@ description: A roadmap for a coe project or brand
 
 <mark style="color:orange;">**The roadmap will be updated as development progresses.**</mark>
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/VLo0DoLftsG7FrdnQnxT" %}
+[Broken link](/broken/pages/VLo0DoLftsG7FrdnQnxT)
 {% endcontent-ref %}

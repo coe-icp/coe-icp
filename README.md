@@ -1,15 +1,19 @@
 ---
-description: Community-oriented economy
+description: (Community-Oriented Loyalty Economy Structure)
 ---
 
-# what is coe? (v.3.1)
+# What is COE?
 
 ### what is coe?
 
-**The first chain of an economic flow that was formed without the intervention of governments and banks and is completely owned by the society. COE follows decentralized and popular structures!**
+COE is a decentralized, community-owned economic structure established to bridge the gap between traditional economies and the opportunities of next-generation digital platforms. The project aims to provide a transparent and secure solution for creating utility value and distributing loyalty rights.
 
-### What is the role of coe?
+Leveraging blockchain infrastructure, COE is the first ecosystem that enables businesses to convert their value streams directly into instant loyalty rewards for community members, bypassing traditional financial intermediaries. This approach places full ownership and control over the future of the ecosystem firmly in the hands of the community.
 
-Cultivating society, attracting capital, creating the first wave of financial and economic flow to create a hybrid chain, from traditional businesses with the over-the-counter and decentralized world.
+### What is the Role of COE? (Utility Value Facilitator)
 
-**The goal of the COE project is to research and create a definitive solution for integrating traditional businesses with the COE token structure.**
+The primary role of COE is to facilitate the flow of utility value and establish a sustainable link between traditional businesses and decentralized structures. Our mission is to develop the necessary knowledge and infrastructure so that the community can leverage Web3 tools in their daily interactions.
+
+COE focuses on research and engineering definitive solutions to create a tokenized and transparent structure. This structure enables businesses to convert their generated value into a reward system, ensuring that the loyalty rights of community members are fulfilled instantly and fairly.
+
+>
