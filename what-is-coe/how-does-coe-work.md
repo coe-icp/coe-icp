@@ -27,6 +27,6 @@ The COE operational model provides benefits to its core stakeholders that are no
 
 4\. Sustainable Business Growth: By guaranteeing long-term community loyalty and intelligent allocation of generated value, COE provides a reliable and sustainable growth engine for connected businesses.
 
-{% content-ref url="../initial-shares-of-the-coe-project-sponsors/" %}
-[initial-shares-of-the-coe-project-sponsors](../initial-shares-of-the-coe-project-sponsors/)
+{% content-ref url="../initial-contribution-structure/" %}
+[initial-contribution-structure](../initial-contribution-structure/)
 {% endcontent-ref %}
