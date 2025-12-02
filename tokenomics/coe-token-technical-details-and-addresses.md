@@ -28,6 +28,6 @@ You can verify the token status and distributions through external platforms suc
 * Airdrop storage : [sudk3-lm3tr-gueiz-azibd-fmw5h-iwoqe-eyrqd-c33rr-3bbmj-ktj5l-xae](https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/holder/sudk3-lm3tr-gueiz-azibd-fmw5h-iwoqe-eyrqd-c33rr-3bbmj-ktj5l-xae/tokens)
 * sp-coe wallet (ALP) : [kpmy2-cihyn-ngeti-vtn5y-7wzkd-szzjm-rlqzc-vq6b4-3jchl-rhfmn-zqe](https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/holder/kpmy2-cihyn-ngeti-vtn5y-7wzkd-szzjm-rlqzc-vq6b4-3jchl-rhfmn-zqe/tokens)
 
-{% content-ref url="../road-map.md" %}
-[road-map.md](../road-map.md)
+{% content-ref url="../roadmap-and-future-commitments.md" %}
+[roadmap-and-future-commitments.md](../roadmap-and-future-commitments.md)
 {% endcontent-ref %}
