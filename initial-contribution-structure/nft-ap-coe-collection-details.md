@@ -1,12 +1,16 @@
+---
+description: (Active Participation Rewards)
+---
+
 # NFT ap-coe collection details
 
-The ap-coe collection is designed to promote and grow the COE project community. The maximum number of these NFTs in this collection is 10,000.
+### Mission and Collection Specifications
 
-All these ten thousand NFT will be distributed in promotional or educational events. Each NFT from this collection is worth 42 COE tokens.
+The ap-coe collection is designed for the promotion, education, and active expansion of the COE community. The maximum number of these NFTs is set at 10,000 units, all of which will be distributed via Airdrop (free distribution) during promotional and educational events. Each NFT from this collection symbolizes the rights of early participation and has been allocated 42 COE Tokens as an initial loyalty reward.
 
-### Check out the ap-coe collection data
+### Collection Accessibility and Transparency
 
-The ap-coe collection is made and tradable on the YUKU platform.
+The ap-coe collection is publicly created and tradable on the YUKU platform. This feature ensures transparency and open access to the governance rights (DAO) and loyalty rewards of the members.
 
 * ap-coe NFTs trading: [https://yuku.app/market/qekxn-6yaaa-aaaap-aa5bq-cai](https://yuku.app/market/qekxn-6yaaa-aaaap-aa5bq-cai)
 * NFT canister: **qekxn-6yaaa-aaaap-aa5bq-cai**
