@@ -21,9 +21,13 @@ To ensure the highest level of transparency and auditability, all tokens allocat
 
 You can verify the token status and distributions through external platforms such as NFTgeek and ICPswap. The direct link to the relevant data on the ICPswap platform, as well as the segregated links for each project wallet on NFTgeek, are located in the section below.
 
-* Farm Wallet : [lmzg3-l3xs4-dzayb-noktj-zeslv-egypv-lwwni-nqknc-6fz7k-iy7ze-zqe](https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/holder/lmzg3-l3xs4-dzayb-noktj-zeslv-egypv-lwwni-nqknc-6fz7k-iy7ze-zqe/tokens)
+* Loyalty Reward Pool Wallet : [lmzg3-l3xs4-dzayb-noktj-zeslv-egypv-lwwni-nqknc-6fz7k-iy7ze-zqe](https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/holder/lmzg3-l3xs4-dzayb-noktj-zeslv-egypv-lwwni-nqknc-6fz7k-iy7ze-zqe/tokens)
 * Token storage for CEX : [3qavc-jlkwk-on2zc-q34fz-vre37-wne3v-ablvq-rg6uu-64phn-6vedd-7qe ](https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/holder/3qavc-jlkwk-on2zc-q34fz-vre37-wne3v-ablvq-rg6uu-64phn-6vedd-7qe/tokens)
 * Project Team : [a7yzc-wim7k-lttoc-rjqc5-cdnxk-p7uuq-6iwzd-ofm2u-dj3wr-cmlyv-4qe](https://app.gitbook.com/u/kfKl2ABf4PaPOyG6TxmX6FggyFk1)
 * Save collaboration with other teams : [nsy52-ktv62-ss474-a7lrd-3ahav-2lypv-xzkkf-7frnt-sc3dc-srr2t-aae](https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/holder/nsy52-ktv62-ss474-a7lrd-3ahav-2lypv-xzkkf-7frnt-sc3dc-srr2t-aae/tokens)
 * Airdrop storage : [sudk3-lm3tr-gueiz-azibd-fmw5h-iwoqe-eyrqd-c33rr-3bbmj-ktj5l-xae](https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/holder/sudk3-lm3tr-gueiz-azibd-fmw5h-iwoqe-eyrqd-c33rr-3bbmj-ktj5l-xae/tokens)
 * sp-coe wallet (ALP) : [kpmy2-cihyn-ngeti-vtn5y-7wzkd-szzjm-rlqzc-vq6b4-3jchl-rhfmn-zqe](https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/holder/kpmy2-cihyn-ngeti-vtn5y-7wzkd-szzjm-rlqzc-vq6b4-3jchl-rhfmn-zqe/tokens)
+
+{% content-ref url="../road-map.md" %}
+[road-map.md](../road-map.md)
+{% endcontent-ref %}
