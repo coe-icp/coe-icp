@@ -17,21 +17,22 @@ The COE development team has successfully completed this phase, establishing the
 * [x] Establishing the first operational pilot with private investments.
 * [x] Creating the first technical initial liquidity reserve.
 
-### The second phase
+### Phase Two (Ongoing and Future Commitments)
 
-* [x] Completion of ap-coe NFTs airdrop
-* [x] The end of fundraising from the sp-coe collection
-* [x] Upgrade the project site
-* [x] Completing the construction of the coe token with the ICRC-1 standard
-* [x] Distribution of coe token among the community
+This phase includes steps for completing the technical framework and entering the broader market. Items marked as Completed are finalized, and the remaining Commitments are the primary focus of the development team:
+
+* [x] Concluding the ap-coe NFT airdrop
+* [x] Concluding resource acquisition from the sp-coe collection
+* [x] Upgrading the project platform and website
+* [x] Completing the construction of the COE Token (ICRC-1)
+* [x] Distribution of COE Tokens as rewards among the community
 * [x] Providing industrial business development plans
-* [x] Testing the COE prototype in the real market
-* [x] COE Marketing Plan Optimization
-* [x] Add liquidity to DEXs
-* [ ] List on coingecko
-* [ ] coinmarketcap
-* [ ] Integrating the first traditional business
-* [ ] Complete decentralization of trading pools
+* [x] Testing the COE Operational Pilot in the real market
+* [x] Optimization of the COE operational model and loyalty strategy
+* [x] Adding liquidity to Decentralized Exchange (DEX) reserves
+* [x] Complete decentralization of pools and trading rewards
+* [ ] Listing on Data Transparency Platforms (Coingecko/CMC)
+* [ ] Official integration of the first traditional business
 
 <mark style="color:orange;">**The roadmap will be updated as development progresses.**</mark>
 
