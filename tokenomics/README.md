@@ -26,22 +26,23 @@ The distribution of 21 million COE Tokens is primarily designed to secure ecosys
 * 5%: Business Partners & Development Team.
 * 5%: Development Reserve Fund for supporting future expansions.
 * 2%: Airdrops & Community Acquisition events.
-*
+* 2%: ap-coe NFT Governance Rewards.
+* 1%: sp-coe NFT Governance Rewards.
 
-### Four major trading pairs
+### Liquidity Support and Stability Mechanism
 
 Four Major Trading Pairs
 
-30% of the total liquidity of COE tokens, equivalent to 6.3 million tokens, will be held in four major trading pairs.
+30% of the total COE Token supply, equivalent to 6.3 million tokens, will be held across 4 technical support pairs. These pairs are part of the Technical Stability Mechanism, aiming to ensure the operational stability of the reward token and maintain the health of the ecosystem:
 
-* 40% of this share belongs to the ICP/COE trading pair.
-* 30% of this share belongs to the ckBTC/COE trading pair.
-* 20% of this share belongs to the ckETH/COE trading pair.
-* 10% of this share belongs to the ckUSDC/COE trading pair.
+* 40% of the liquidity share allocated to the ICP/COE pair.
+* 30% of the liquidity share allocated to the ckBTC/COE pair.
+* 20% of the liquidity share allocated to the ckETH/COE pair.
+* 10% of the liquidity share allocated to the ckUSDC/COE pair.
 
-In this situation, if you hold $100 of COE cryptocurrency, it is like investing in a portfolio of 4 cryptocurrencies. ($40 on ICP, $30 on Bitcoin, $20 on Ethereum, and $10 on the dollar stablecoin.)
+This structure is solely a technical guarantee for backing the COE Token's operations and ecosystem health, not an investment portfolio for token holders.
 
-COE Token Price Chart : [https://app.icpswap.com/info-swap/token/details/pmlt4-pqaaa-aaaak-aewmq-cai](https://app.icpswap.com/info-swap/token/details/pmlt4-pqaaa-aaaak-aewmq-cai)
+COE Application chart: [https://app.icpswap.com/info-swap/token/details/pmlt4-pqaaa-aaaak-aewmq-cai](https://app.icpswap.com/info-swap/token/details/pmlt4-pqaaa-aaaak-aewmq-cai)
 
 
 
