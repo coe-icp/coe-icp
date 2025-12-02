@@ -16,4 +16,12 @@ The primary role of COE is to facilitate the flow of utility value and establish
 
 COE focuses on research and engineering definitive solutions to create a tokenized and transparent structure. This structure enables businesses to convert their generated value into a reward system, ensuring that the loyalty rights of community members are fulfilled instantly and fairly.
 
+> **Legal Disclaimer (Key Warning)**
 >
+> The COE Token is a Loyalty Reward Token with utility solely within the COE ecosystem. This token must not be construed as a security, investment tool, share, derivative, or any form of financial instrument with an expectation of profit or return. COE's purpose is the creation of value and the distribution of loyalty rights, and it does not promise any financial benefits or profitability.
+
+#### Existing Challenges (The Gap in Global Loyalty Structure)
+
+The current global economy faces fundamental structural challenges: traditional loyalty systems are fragmented, centralized, and lack real value for the consumer. Furthermore, businesses struggle to effectively transmit their value streams in a transparent and measurable manner to the community.
+
+This gap necessitates a borderless and decentralized infrastructure that can transform loyalty from a local privilege into a global and transferable right. COE is designed to address and resolve this specific structural deficiency.
