@@ -25,3 +25,7 @@ COE focuses on research and engineering definitive solutions to create a tokeniz
 The current global economy faces fundamental structural challenges: traditional loyalty systems are fragmented, centralized, and lack real value for the consumer. Furthermore, businesses struggle to effectively transmit their value streams in a transparent and measurable manner to the community.
 
 This gap necessitates a borderless and decentralized infrastructure that can transform loyalty from a local privilege into a global and transferable right. COE is designed to address and resolve this specific structural deficiency.
+
+{% content-ref url="what-is-coe/how-does-coe-work.md" %}
+[how-does-coe-work.md](what-is-coe/how-does-coe-work.md)
+{% endcontent-ref %}
