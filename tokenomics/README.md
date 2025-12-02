@@ -1,29 +1,32 @@
 ---
-description: Community-based distribution structure of the coe token
+description: >-
+  The COE Token distribution structure is community-based and focused on
+  preserving its utility value.
 ---
 
 # tokenomics
 
-### 21 million tokens
+### Total Supply and Quantity Discipline
 
-coe has considered a maximum liquidity of 21 million for its token.\
-The number of **21 million** tokens is inspired by Bitcoin and we believe that the COE token will have the potential to grow like Bitcoin.
+The COE Token on the ICP chain is ICRC-1 standard. We will not charge any system fees for the internal transfers and transactions of this token.
 
-#### Transfer fees between wallets and transactions
+This technical efficiency (very high speed and near-zero fees) makes COE an optimal tool for reward distribution, ensuring transaction transparency, and facilitating the loyalty flow within the ecosystem.
+
+#### Technical Efficiency of Transactions
 
 The coe token on the ICP chain is ICRC-1 standard, we will not charge any fees for transfers and transactions of this token. Therefore, COE is a cryptocurrency, it can easily be a new way to pay.\
 Very high transaction speed and almost zero fees are two important features of this cryptocurrency.
 
-### coe token distribution structure
+### COE Token Distribution Structure (Allocation)
 
-* 2% between ap-coe NFTs
-* 1% between sp-coe NFTs
-* 5% CEX Savings Fund
-* 2% airdrop
-* 5% business partners
-* 5% for the development team
-* 30% liquidity
-* 50% of the farm
+The distribution of 21 million COE Tokens is primarily designed to secure ecosystem stability and community rewards:
+
+* 50%: Loyalty Reward Pool for continuous reward distribution to the community.
+* 30%: Technical Stability Reserve for liquidity provision and support of the stability mechanism.
+* 5%: Business Partners & Development Team.
+* 5%: Development Reserve Fund for supporting future expansions.
+* 2%: Airdrops & Community Acquisition events.
+*
 
 ### Four major trading pairs
 
@@ -34,7 +37,7 @@ Four Major Trading Pairs
 * 40% of this share belongs to the ICP/COE trading pair.
 * 30% of this share belongs to the ckBTC/COE trading pair.
 * 20% of this share belongs to the ckETH/COE trading pair.
-*  10% of this share belongs to the ckUSDC/COE trading pair.
+* 10% of this share belongs to the ckUSDC/COE trading pair.
 
 In this situation, if you hold $100 of COE cryptocurrency, it is like investing in a portfolio of 4 cryptocurrencies. ($40 on ICP, $30 on Bitcoin, $20 on Ethereum, and $10 on the dollar stablecoin.)
 
