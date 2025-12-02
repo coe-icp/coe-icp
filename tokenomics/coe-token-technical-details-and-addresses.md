@@ -1,21 +1,25 @@
-# Token details
+# COE Token Technical Details and Addresses
 
-**In this section, you can examine more details of the COE token. New data will be added to the white paper every time a new liquidity pool is created or the project roadmap is improved.**
+This section provides the technical specifications and verifiable addresses of the COE Token to ensure the highest level of transparency. This data will be regularly updated as the implementation model and technical strategies evolve.
 
-### COE token details
+### COE Token Technical Specifications
 
-* Token standard: ICRC-1
+COE is a utility-focused token within the loyalty rewards ecosystem, and its technical specifications are designed for maximum efficiency and transparency:
+
+* Token standard: ICRC-1 (Official ICP Chain Standard)
 * Number of decimals: 8
-* Transfer fee: 0.0001
+* Transfer fee: 0.0001 COE Token. (This amount represents a minimal technical fee to maintain network health and secure operations, in line with our goal of providing near-zero transaction costs.)
 * Maximum number of COE tokens: 20,999,999&#x20;
 * Token canister: [pmlt4-pqaaa-aaaak-aewmq-cai](https://icscan.io/canister/pmlt4-pqaaa-aaaak-aewmq-cai)
 * Wallet of the project team (wallet where cash is kept):\
   **xka6b-wytba-2e72o-ktean-p3q6q-senov-euen7-p5am6-zw4mp-zzyqa-3qe**
-* Trading platforms: **ICPswap**
+* Initial Operational Platforms: **ICPswap**
 
-### Checking project wallets
+### Transparency and Public Auditability
 
-The most accurate way we can examine the data of the project's wallets is with the help of the NFTgeek and ICPswap platforms. In this section, the review link from [the ICPswap platform](https://app.icpswap.com/info-tokens/holders/pmlt4-pqaaa-aaaak-aewmq-cai) is located. In the lower section, the NFTgeek destination links for each wallet are also loaded.
+To ensure the highest level of transparency and auditability, all tokens allocated to the project are publicly verifiable. We guarantee the community that every COE Token in any project wallet is traceable.
+
+You can verify the token status and distributions through external platforms such as NFTgeek and ICPswap. The direct link to the relevant data on the ICPswap platform, as well as the segregated links for each project wallet on NFTgeek, are located in the section below.
 
 * Farm Wallet : [lmzg3-l3xs4-dzayb-noktj-zeslv-egypv-lwwni-nqknc-6fz7k-iy7ze-zqe](https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/holder/lmzg3-l3xs4-dzayb-noktj-zeslv-egypv-lwwni-nqknc-6fz7k-iy7ze-zqe/tokens)
 * Token storage for CEX : [3qavc-jlkwk-on2zc-q34fz-vre37-wne3v-ablvq-rg6uu-64phn-6vedd-7qe ](https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/holder/3qavc-jlkwk-on2zc-q34fz-vre37-wne3v-ablvq-rg6uu-64phn-6vedd-7qe/tokens)

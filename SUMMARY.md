@@ -6,6 +6,6 @@
   * [NFT ap-coe collection details](initial-contribution-structure/nft-ap-coe-collection-details.md)
   * [NFT sp-coe collection details](initial-contribution-structure/nft-sp-coe-collection-details.md)
 * [tokenomics](tokenomics/README.md)
-  * [Token details](tokenomics/token-details.md)
+  * [COE Token Technical Details and Addresses](tokenomics/coe-token-technical-details-and-addresses.md)
 * [DAO](dao.md)
 * [Road map](road-map.md)

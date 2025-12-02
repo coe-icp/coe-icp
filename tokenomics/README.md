@@ -46,6 +46,6 @@ COE Application chart: [https://app.icpswap.com/info-swap/token/details/pmlt4-pq
 
 
 
-{% content-ref url="token-details.md" %}
-[token-details.md](token-details.md)
+{% content-ref url="coe-token-technical-details-and-addresses.md" %}
+[coe-token-technical-details-and-addresses.md](coe-token-technical-details-and-addresses.md)
 {% endcontent-ref %}
