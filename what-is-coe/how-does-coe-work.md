@@ -15,15 +15,17 @@ This model is the result of three years of research and prototype execution in r
 
 Operational Prototype Phase I Results Report ([**Food COE**](https://forum.dfinity.org/t/beyond-the-numbers-a-data-driven-analysis-of-the-food-coe-project-in-the-icp-ecosystem/55768?u=coe))
 
-### How does the price growth of the COE token happen?
-
-Injecting financial flow from the traditional market into the COE token can achieve price growth without demand from the community. Integrating any new business with the COE marketing plan and the COE token can accelerate the growth of the token price.
-
-We support traditional businesses to create customer clubs with the help of NFTs, tokenize customer club members, and reward their customer club members with a portion of their financial input in the form of COE tokens.
-
 ### Benefits of COE's Operational Structure
 
+The COE operational model provides benefits to its core stakeholders that are not possible in centralized loyalty systems:
 
+1\. Complete Transaction Transparency: All reward allocation and distribution processes are recorded on the blockchain, becoming immutable and traceable, eliminating any doubt.
+
+2\. Efficiency and Instant Accessibility: The removal of traditional intermediaries allows for the transfer of rewards and the utilization of loyalty rights to occur instantly and without geographical boundaries.
+
+3\. Real Reward Ownership: Unlike centralized points, COE Reward Tokens belong to the user and are not controlled by any central entity; this genuine ownership preserves the utility value of the reward.
+
+4\. Sustainable Business Growth: By guaranteeing long-term community loyalty and intelligent allocation of generated value, COE provides a reliable and sustainable growth engine for connected businesses.
 
 {% content-ref url="/broken/pages/yChSOpBnBUIiKWMCQwox" %}
 [Broken link](/broken/pages/yChSOpBnBUIiKWMCQwox)
