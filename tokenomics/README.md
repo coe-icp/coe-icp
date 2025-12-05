@@ -25,7 +25,7 @@ The distribution of 21 million COE Tokens is primarily designed to secure ecosys
 * 30%: Technical Stability Reserve for liquidity provision and support of the stability mechanism.
 * 5%: Business Partners.
 * 5%: Development Team.
-* 5%: Development Reserve Fund for supporting future expansions.
+* 5%: Development Reserve Fund for supporting future expansions.(CEX,...)
 * 2%: Airdrops & Community Acquisition events.
 * 2%: ap-coe NFT Governance Rewards.
 * 1%: sp-coe NFT Governance Rewards.
